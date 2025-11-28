@@ -1,3 +1,23 @@
+### 3. gdamjan/uv-getting-started
+- **URL:** https://github.com/gdamjan/uv-getting-started
+- **Stars:** 13
+- **Forks:** 2
+- **Type:** Example / Tutorial Project
+- **UV Version:** 0.3.x+
+- **Python Version:** 3.11+
+- **Last Updated:** Active (48 commits)
+- **License:** CC0-1.0
+- **Language:** Python 63.8%, Dockerfile 36.2%
+- **Main Dependencies:**
+  - Starlette (web framework)
+  - HTTPX (HTTP client)
+  - Granian (ASGI server)
+  - Polars (data manipulation)
+- **Key Features:** Src-layout, Docker, GitHub Actions CI, PEP 723 scripts
+- **Why Analyzed:** Comprehensive beginner-friendly example, best practices
+
+
+
 # An example _getting started_ python project based on `uv`
 
 [`uv`](https://docs.astral.sh/uv) - An extremely fast Python package and project manager, written in Rust
